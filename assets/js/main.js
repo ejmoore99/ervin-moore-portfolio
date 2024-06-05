@@ -132,9 +132,4 @@
       return 0;
     },
   });
-  // Darkmode
-  function darkMode() {
-    var element = document.body;
-    element.classList.toggle('dark-mode');
-  }
 })(jQuery);
